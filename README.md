@@ -3,6 +3,8 @@
 A pixel-art desktop pet for Windows. Clawd lives on top of your taskbar, wanders around, waves, dances, codes on a tiny laptop, naps, does backflips, and plays games with you.
 
 *A fan-made project, not affiliated with Anthropic.*
+<img width="886" height="560" alt="image" src="https://github.com/user-attachments/assets/3ee9dea3-5a81-462f-9b3e-e022d209d186" />
+
 
 ## Download
 
